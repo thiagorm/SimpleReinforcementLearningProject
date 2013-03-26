@@ -1,0 +1,1 @@
+Esse projeto foi criado com XNA e usa os conceitos de aprendizado por reforço.
